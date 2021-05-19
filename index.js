@@ -77,4 +77,4 @@ client.on('message', message =>{
 
 
 
-client.login('ODM1NjkwMDU5ODg5NjM5NDY0.YITHBA.-ErFbq_U1K-TMqOP7VXjGakbQX4');
+client.login('(redacted for security)');
